@@ -3,8 +3,7 @@
 ## Contents
 
 * [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
-* [Resources](resources.md)
+* [Log - click here to see my progress](https://github.com/Arpit2401/100DaysofCode/tree/main/log)
 
 ## Note
 
