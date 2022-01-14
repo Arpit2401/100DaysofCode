@@ -24,4 +24,4 @@
 5.  Change the date in [Rules](rules.md) to the day you've started the challenge.
 6.  Delete the examples in the log, or comment them out, and start filling it with your own content.
 7.  **Tweet your progress every day using the #100DaysOfCode hashtag.**
-8.  Follow [Alex, creator of #100DaysOfCode](https://twitter.com/ka11away) & [100DaysOfCode](https://twitter.com/_100DaysOfCode) Twitter Bot that retweets the tweets that contain the #100DaysOfCode hashtag. It's a great way to keep yourself motivated and to participate in the community. Thanks [@amanhimself](https://twitter.com/amanhimself) for creating it!
+8.  Follow [Alex, creator of #100DaysOfCode](https://twitter.com/ka11away) & [100DaysOfCode](https://twitter.com/_100DaysOfCode) Twitter Bot that retweets the tweets that contain the #100DaysOfCode hashtag. It's a great way to keep yourself motivated and to participate in the community.
